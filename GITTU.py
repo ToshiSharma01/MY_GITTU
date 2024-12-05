@@ -1,2 +1,2 @@
 print("not_a_humanbeing")
-print("good_lesbian")
+print("good_DAYN")
